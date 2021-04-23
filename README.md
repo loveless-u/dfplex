@@ -34,7 +34,7 @@ To customize the graphics, edit `hack/www/config.js`. Players can set their own 
 
 #### Online Play ####
 
-DFPlex requires two ports to be available. They are both displayed in the dfplex window upon launching, and can be configured in `data/init/dfplex.txt`. To play on LAN, players can simply connect to your LAN IP address at the correct port: for example, [http://192.168.1.1:8000/](http://192.168.1.1:8000/). To play online (as opposed to on LAN), port forwarding must be enabled on your reuter. Enabling port forwarding and finding your LAN or WAN IP address are beyond the scope of this readme, so please look these up online if you are unfamiliar with the process.
+DFPlex requires two ports to be available. They are both displayed in the dfplex window upon launching, and can be configured in `data/init/dfplex.txt`. To play on LAN, players can simply connect to your LAN IP address at the correct port: for example, [http://192.168.1.1:8000/](http://192.168.1.1:8000/). To play online (as opposed to on LAN), port forwarding must be enabled on your router. Enabling port forwarding and finding your LAN or WAN IP address are beyond the scope of this readme, so please look these up online if you are unfamiliar with the process.
 
 **DFPlex is not secure**. If you wish to play with people you do not trust, please take your own security precautions, such as running Dwarf Fortress within an isolated container. No efforts were taken by the authors of DFPlex to prevent clients from accessing the host filesystem.
 
